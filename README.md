@@ -1,1 +1,2 @@
-# DecodeMe is a deciphering game made in c++
+# DecodeMe 
+(c)Dharam Lokhandwala
